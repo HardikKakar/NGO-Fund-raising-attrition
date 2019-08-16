@@ -1,0 +1,2 @@
+# NGO-Fund-raising-attrition
+NGO-FUND RAISING ATTRITION CHURN MODELING
